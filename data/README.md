@@ -15,9 +15,6 @@ This folder contains the dataset collected for the research project.
 
 ## Variables Included
 
-- Age
-- Gender
-- Year of Study
 - Product placement-related variables
 - Impulse buying-related variables
 

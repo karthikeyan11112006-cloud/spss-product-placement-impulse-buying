@@ -1,9 +1,6 @@
-# `questionnaire/README.md`
+# 📋 Questionnaire
 
-```markdown
-# Questionnaire
-
-This folder contains the questionnaire used for collecting data for the research study.
+This folder contains the questionnaire used for data collection.
 
 ## Research Topic
 
@@ -11,13 +8,8 @@ This folder contains the questionnaire used for collecting data for the research
 
 ## Purpose
 
-The questionnaire was designed to collect information related to product placement and impulse buying behaviour.
+The questionnaire was prepared to collect responses related to product placement and impulse buying behaviour among college students.
 
-## Contents
+## File
 
-- Questionnaire PDF
-- Demographic questions
-- Product placement-related questions
-- Impulse buying-related questions
-
-The questionnaire was used to collect responses for the SPSS analysis.
+**Questionnaire.pdf**

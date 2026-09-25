@@ -1,1 +1,24 @@
+# 📊 SPSS Analysis
 
+This folder contains the SPSS analysis file used for the research project.
+
+## Research Topic
+
+**A Study on the Influence of Product Placement on Impulse Buying Behaviour Among College Students in Retail Stores**
+
+## Analyses Included
+
+- Pearson Correlation
+- Spearman Rank Correlation
+- Linear Regression
+- Multiple Regression
+- One-Sample T-Test
+- Paired-Samples T-Test
+
+## Software
+
+**IBM SPSS Statistics**
+
+## File
+
+**SPSS_Project_Analysis.sav**

@@ -1,1 +1,60 @@
+# 📊 Dataset
 
+This folder contains the dataset collected for the research project:
+
+**"A Study on the Influence of Product Placement on Impulse Buying Behaviour Among College Students in Retail Stores."**
+
+## 📌 Dataset Information
+
+| Particular | Details |
+|---|---|
+| Sample Size | 50 responses |
+| Data Collection Method | Structured Questionnaire |
+| Target Respondents | College Students |
+| Number of Study Variables | 30 |
+| Data Analysis Software | IBM SPSS Statistics |
+
+## 📋 Variables Included
+
+The dataset contains:
+
+- Product placement-related variables
+- Impulse buying behaviour-related variables
+- Opinion-based Likert-scale variables
+
+## 📏 Likert Scale Coding
+
+The opinion-based questions were coded as:
+
+| Value | Response |
+|---:|---|
+| 1 | Strongly Disagree |
+| 2 | Disagree |
+| 3 | Neutral |
+| 4 | Agree |
+| 5 | Strongly Agree |
+
+## 🔬 Variables Used for Statistical Analysis
+
+The following variables were selected for the statistical analyses:
+
+| Analysis | Variables |
+|---|---|
+| Pearson Correlation | Q7 & Q19 |
+| Spearman Rank Correlation | Q13 & Q20 |
+| Linear Regression | Q11 → Q19 |
+| Multiple Regression | Q7, Q11 & Q17 → Q19 |
+| One-Sample T-Test | Q30 |
+| Paired-Samples T-Test | Product Placement Score & Impulse Buying Score |
+
+## 🔐 Data Privacy
+
+The dataset is provided for academic and portfolio purposes.
+
+Personally identifiable information such as names, email addresses, phone numbers, registration numbers, or other identifying information should not be included in the publicly shared dataset.
+
+## 📁 File
+
+**SPSS_Project_Responses.xlsx**
+
+The Excel file contains the responses used for the statistical analysis presented in this project.

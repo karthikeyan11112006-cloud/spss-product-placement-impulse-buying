@@ -1,10 +1,14 @@
 # 📊 SPSS Analysis
 
-This folder contains the SPSS analysis file used for the research project.
+This folder contains the SPSS file used for the statistical analysis of the research project.
 
 ## Research Topic
 
 **A Study on the Influence of Product Placement on Impulse Buying Behaviour Among College Students in Retail Stores**
+
+## Purpose
+
+The SPSS file contains the collected responses, variable definitions, coding, and statistical analysis used in the study.
 
 ## Analyses Included
 
@@ -22,3 +26,5 @@ This folder contains the SPSS analysis file used for the research project.
 ## File
 
 **SPSS_Project_Analysis.sav**
+
+The file contains the data and analysis used to prepare the results presented in the final research report.
